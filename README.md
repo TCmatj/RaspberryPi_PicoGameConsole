@@ -1,0 +1,2 @@
+# RaspberryPi_PicoGameConsole
+一个基于树莓派pico和SPI通信1.47英寸小屏幕的游戏机
